@@ -1,11 +1,7 @@
 
 # coding: utf-8
 
-# # Lord of the Machines: Data Science Hackathon
-# 
-# Manuel Larenas (manuel.a.larenas@gmail.com)
-# 
-# v2 includes email body analysis
+# Lord of the Machines: Data Science Hackathon
 
 #%%
 
