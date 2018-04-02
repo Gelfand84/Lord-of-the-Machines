@@ -1,6 +1,3 @@
-
-# coding: utf-8
-
 # Lord of the Machines: Data Science Hackathon
 
 #%%
